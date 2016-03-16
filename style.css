@@ -1,0 +1,62 @@
+body{
+margin:0px;
+
+  }
+
+  nav{
+  
+padding:15px 0px 15px 0px;
+border-bottom: 3px solid orange;
+background-color: #666;
+}
+
+header{
+  color:#DFBF8F;
+  font-size: 30px;
+display:inline;
+padding: 1px 50px;
+  }
+
+nav li{
+ margin:5px;
+  display:inline;
+  padding:5px;
+  
+  border-radius: 5px;
+
+ 
+}
+
+nav li:hover{
+  background-color: green;
+  opacity:10px;
+  box-shadow: orange 1px 1px 1px;
+}
+
+nav ul{
+  float: right;
+  margin: 10px 0px 0px 10px;
+  padding:0px;
+
+ 
+}
+
+a{
+  color: #DFBF8F;
+
+}
+
+footer{
+  margin-left: 45%;
+}
+
+#mainsection{
+
+}
+
+
+
+
+
+
+
